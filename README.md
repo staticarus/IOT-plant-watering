@@ -1,6 +1,6 @@
 # IOT - watering plant system connected to the web and with alerts
 
-This is a project I made for a school assignment in which an old soap dispenser is reconverted into a water source for a plant. It uses a NodeMCU, the equivalent of an Arduino with an integrated ESP8266 WiFi microchip.
+This is a project I made for a school assignment in which an old soap dispenser is repurposed into a water source for a plant. It uses a NodeMCU, the equivalent of an Arduino with an integrated ESP8266 WiFi microchip.
 
 The circuit/layout can be found inside the 'Pictures' folder.
 
