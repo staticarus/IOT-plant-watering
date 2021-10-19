@@ -14,3 +14,5 @@ The circuit/layout can be found inside the 'Pictures' folder.
 - Uses the Cayenne online dashboard for a quick and easy visual reference of the many sensor values
 
 ![picture1-globalview](Pictures/picture1.jpg)
+![picture1-globalview](Pictures/Schema.jpg)
+![picture1-globalview](Pictures/picture2.jpg)
